@@ -11,6 +11,11 @@
 	<groupId>com.stacksimplify</groupId>
 	<artifactId>ccdemo</artifactId>
 	<version>1.0</version>
+	<packaging>war</packaging>
+	<name>ccdemo</name>
+	<description>Demo project for Spring Boot</description>
+	<groupId>com.stacksimplify</groupId>
+	<artifactId>ccdemo</artifactId>
 	<version>0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>ccdemo</name>
